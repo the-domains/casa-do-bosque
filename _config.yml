@@ -1,0 +1,20 @@
+name: casa do bosque
+analytics: {}
+content_rating:
+  adult: false
+github: true
+description: sobre filmes como sempre
+opengraph: {}
+title: e mais um titulo
+author: {}
+color:
+  lightness: 0.02967236284857438
+  brandColors:
+    - '#85DB18'
+    - '#CDE855'
+    - '#F5F6D4'
+    - '#A7C520'
+    - '#493F0B'
+  saturation: 0.9234903547734699
+  brandStrength: 0.8309561856628759
+  rhythmicContrast: 0.9556933937025474
